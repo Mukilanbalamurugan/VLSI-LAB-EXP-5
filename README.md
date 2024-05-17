@@ -76,7 +76,7 @@ endmodule
 ### OUTPUT WAVEFORM :
 ![image](https://github.com/NMRohith/VLSI-LAB-EXP-5/assets/163638659/de3852a0-565b-4cce-8259-df6d7ea32310)
 
-RESULT:
+### RESULT:
 
 Hence the finite state machine has been simulated and synthesised using vivado.
 
