@@ -3,7 +3,7 @@
 To simulate and synthesis finite state machine using vivado2023.3.
 # APPARATUS REQUIRED:
 vivado 2023.3
-# procedure:
+# Procedure:
 STEP:1 Start the vivado software, Select and Name the New project.
 STEP:2 Select the device family, device, package and speed.
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type.
